@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guylamdan00
+- 👋 Hi, I’m @guylamdan00 for my current workplace github page please head over to @guylamd
 - 🎲 I’m a Game Economist who specializes in mobile games
 - 🌱 I’m currently working at Whalo's Fish of Fortune
 - 📫 How to reach me: guylamdan00@gmail.com
